@@ -1,0 +1,16 @@
+https://clang.llvm.org/docs/UsersManual.html#id22
+Ignored
+Note
+Remark
+Warning
+Error
+Fatal
+
+ ieee --> floats
+
+https://medium.com/@alitech_2017/gcc-vs-clang-llvm-an-in-depth-comparison-of-c-c-compilers-899ede2be378
+
+
+
+http://www2.cs.uregina.ca/~hilder/cs833/Other%20Reference%20Materials/The%20C%20Programming%20Language.pdf
+http://www.nylxs.com/docs/The%20C++%20Programming.Language.4th.Edition.Jun.2013%5BA4%5D.pdf
